@@ -1,0 +1,12 @@
+Package: pcadata
+Type: Package
+Title: The package performs principal component analysis on brca data.
+Version: 1.0
+Imports: skimr, knitr, tidyverse, caret, corrr, corrplot, e1071,
+Depends: ggfortify, stringr, tibble, ggplot2, dplyr, readr
+Date: 2023-10-03
+Author: Anushka Jain
+Maintainer: Anushka Jain <jaina14@vcu.edu>
+Description: this package takes a data frame as input based on script 1 function, readdata and analyses that information by doing its pca.
+License: What license is it under?
+RoxygenNote: 7.2.3
